@@ -1,0 +1,9 @@
+{
+  "short_name": "Lukas Application",
+  "name": "Lukas",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "white",
+  "background_color": "black"
+}
